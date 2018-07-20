@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mysql.h": "c",
+        "string.h": "c"
+    }
+}
